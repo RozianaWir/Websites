@@ -1,0 +1,331 @@
+<html>
+    <head>
+        <title>PERSONAL WEBSITE</title>
+        <link rel="stylesheet" href="style0.css">
+        <meta name="viewport" content="width =device-width, initial-scale=1">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital@1&family=Lora:ital@1&display=swap" rel="stylesheet">
+
+        <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+    </head>
+    <body>
+        <section id="banner">
+            <img src="C:\Users\Admin\Desktop\html\Nana Images\flower.jpg" class="logo">
+            <div class="banner-text">
+                <h1>WELCOME TO MY PERSONAL WEBSITES</h1>
+              
+                <div class="banner-btn">
+                    <a href="#"><span></span>My Email</a>
+                    <a href="#"><span></span>My Contact</a>
+                </div>
+
+            </div>
+        </section>
+        
+        <div id="sideNav">
+            <nav>
+            <ul>
+                <li><a href="#banner">Home</a></li>
+                <li><a href="#feature">Biodata</a></li>
+                <li><a href="#Experience">Experience</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#family">Family</a></li>
+                <li><a href="#service">Gallery</a></li>
+            </ul>
+            </nav>
+        </div>
+        <div id="menuBtn">
+            <img src="C:\Users\Admin\Desktop\html\Nana Images\cancel.png" id="menu">
+        </div>
+
+    <!--Features-->
+
+        <section id="feature">
+            <div class="title-text">
+                <p>BIODATA</p>
+                <h1>Let Me Introduce About Myself</h1>
+            </div>
+            <div class="feature-box">
+                <div class="features">
+                    <h1>MY NAME</h1>
+                    <div class="features-desc">
+                        <div class="feature-icon"></div>
+                        <div class="feature-text">
+                            <p>Hi! My name is Roziana binti Wiran but my family and friends know me and call me Nana. I am 21 years old this year.My mother and my father is from Sabah and I was born in Selangor. I am a happy go lucky person.</p>
+                        </div>
+                    </div>
+                    <h1>BORN</h1>
+                    <div class="features-desc">
+                        <div class="feature-icon"></div>
+                        <div class="feature-text">
+                            <p>I was born on 14th November 2000 8.30 p.m at Tengku Ampuan Rahimah Specialist Hospital at Klang, Shah Alam, Selangor. </p>
+                        </div>
+                    </div>
+                    <h1>HOME</h1>
+                    <div class="features-desc">
+                        <div class="feature-icon"></div>
+                        <div class="feature-text">
+                            <p>I live in Section 25, Shah Alam, Sri Muda, Selangor since I was born until now which means I stay here for 21 years already. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="C:\Users\Admin\Desktop\html\Nana Images\Penang.jpeg">
+                    <img src="C:\Users\Admin\Desktop\html\Nana Images\Penang.jpeg">
+                </div>
+            </div>
+
+        </section>
+
+    <!--Experience-->
+        
+        <section id="experience">
+            <div class="title-text">
+                <p>EXPERIENCE</p>
+                <h1>The Knowledge that I Learn</h1>
+            </div>
+            <div class="experience-row">
+                <div class="experience-col">
+                    <div class="evident">
+                        <img src="C:\Users\Admin\Desktop\html\Nana Images\Menembak.jpeg">
+                    </div>
+                    <p>Joining the activity of "Latihan Menembak" this is first time I joined when i was form 5 in Kadet Polis I join the Latihan Menembak that was fun and I get the new experince using the gun that was really fun.</p>
+                </div>
+                <div class="experience-col">
+                    <div class="evident">
+                        <img src="C:\Users\Admin\Desktop\html\Nana Images\shooting2.jpeg">
+                    </div>
+                    <p>Doing part time job as a extra actor. This is my other side work to do things that i love. This is will be memoriable experience doing actor infornt of the artist feeling awkward for the first time but it fun!.</p>
+                </div>
+                <div class="experience-col">
+                    <div class="evident">
+                        <img src="C:\Users\Admin\Desktop\html\Nana Images\Eventwatsons.jpeg">
+                    </div>
+                    <p>On 9.9 2020 Watsons Warehouse doing sale and Me and my friends joining as a part time job that was good and fun, Watsons Warehouse always do sale and their need that part time workers when they had a sale event, I learn how to packing the things that people always buy online. </p>           
+                </div>
+            </div>
+        </section>
+
+    <!--Education-->
+
+    <section id="education">
+        <div class="title-text">
+            <p>EDUCATION</p>
+            <h1>Knowledge is The Priority.</h1>
+        </div>
+        <div class="education-row">
+            <div class="education-col">
+                <div class="education-desc">
+                    <img src="C:\Users\Admin\Desktop\html\Nana Images\SKTSM.jpg">  
+                </div>
+                    <h1>PRIMARY SCHOOL</h1>
+                    <p>Sekolah Rendah Kebangsaan Taman Sri Muda, Section 25, Shah Alam (SMKTSM)</p>
+            </div>
+            <div class="education-col">
+                <div class="education-desc">
+                    <img src="C:\Users\Admin\Desktop\html\Nana Images\SMKTSM.jpg">  
+                </div>
+                    <h1>HIGH SCHOOL</h1>
+                    <p>Sekolah Menengah Kebangsaan Taman Sri Muda, Section 25, Shah Alam (SMKTSM)</p>
+            </div>
+            <div class="education-col">
+                <div class="education-desc">
+                    <img src="C:\Users\Admin\Desktop\html\Nana Images\UITMJ.jpg">  
+                </div>
+                    <h1>PRA DIPLOMA</h1>
+                    <p>Pra Diploma in UiTM Jengka for 1 Semester.</p>
+            </div>
+            <div class="education-col">
+                <div class="education-desc">
+                    <img src="C:\Users\Admin\Desktop\html\Nana Images\UITMK.jpg">  
+                </div>
+                    <h1>UNIVERSITY</h1>
+                    <p>Universiti Teknologi Mara, Cawangan Merbok, Kedah (UiTM)</p>
+            </div>
+
+    </section>
+
+    <!--Family-->
+    <section id="family">
+        <div class="title-text">
+            <p>FAMILY</p>
+            <h1>Let Me Introduce My Family</h1>
+        </div>
+            <div class="row">
+                <div class="col-md-3 profile-pic text-center">
+                    <div class="img-box">
+                        <img src="C:\Users\Admin\Desktop\html\Nana Images\Dad.jpeg" class="img responsive">
+                    </div>
+                    <div>
+                        <h2>WIRAN BIN JILMAN</h2>
+                        <h3>Father</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 profile-pic text-center">
+                    <div class="img-box">
+                        <img src="C:\Users\Admin\Desktop\html\Nana Images\Mom.jpeg" class="img responsive">
+                    </div>
+                    <div>
+                        <h2>SITTI SUAIMA BINTI PATENTIRO</h2>
+                        <h3>Mother</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 profile-pic text-center">
+                    <div class="img-box">
+                        <img src="C:\Users\Admin\Downloads\Kakak.jpeg" class="img responsive">
+                    </div>
+                    <div>
+
+                        <h2>ROZAIMA BINTI WIRAN</h2>
+                        <h3>Sister</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 profile-pic text-center">
+                    <div class="img-box">
+                        <img src="C:\Users\Admin\Downloads\Abang.jpeg" class="img responsive">
+                    </div>
+                    <div>
+
+                        <h2>RIZAL BIN WIRAN</h2>
+                        <h3>Brother</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 profile-pic text-center">
+                    <div class="img-box">
+                        <img src="C:\Users\Admin\Downloads\Nana.jpeg" class="img responsive">
+                    </div>
+                    <div>
+                        <h2>ROZIANA BINTI WIRAN</h2>
+                        <h3>Me</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 profile-pic text-center">
+                    <div class="img-box">
+                        <img src="C:\Users\Admin\Downloads\Lia.jpeg" class="img responsive">
+                    </div>
+                    <div>
+                        <h2>ROZALIA BINTI WIRAN</h2>
+                        <h3>Younger Sister</h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+    <!--Gallery-->
+
+        <section id="service">
+            <div class="title-text">
+                <p>GALLERY</p>
+                <h1>My Favourite Picture & Videos</h1>
+            </div>
+            <div class="service-box">
+                <div class="single-service">
+                    <img src="C:\Users\Admin\Downloads\Hiking.jpeg" alt="">
+                    <div class="overlay"></div>
+                    <div class="service-desc">
+                        <h3> 5/12/2020 </h3>
+                        <hr>
+                        <p> a picture of me and my friends during hiking activities for fun</p>
+                    </div>
+                </div>
+                <div class="single-service">
+                    <img src="C:\Users\Admin\Downloads\Roomates.jpeg" alt="">
+                    <div class="overlay"></div>
+                    <div class="service-desc">
+                        <h3> 18/10/2019 </h3>
+                        <hr>
+                        <p> a picture with my roomate </p>
+                    </div>
+
+                </div>
+                <div class="single-service">
+                    <img src="C:\Users\Admin\Downloads\SUKOL.jpeg" alt="">
+                    <div class="overlay"></div>
+                    <div class="service-desc">
+                        <h3> 28/10/2019 </h3>
+                        <hr>
+                        <p> a picture with my friends joining SUKOL </p>
+                    </div>
+                </div>
+                <div class="single-service">
+                    <img src="C:\Users\Admin\Downloads\Family.jpeg" alt="">
+                    <div class="overlay"></div>
+                    <div class="service-desc">
+                        <h3> 13/5/2021 </h3>
+                        <hr>
+                        <p> a picture with my family 1st Raya! </p>
+                    </div>
+                </div>
+                <div class="single-service">
+                    <img src="C:\Users\Admin\Downloads\MDS.jpeg" alt="">
+                    <div class="overlay"></div>
+                    <div class="service-desc">
+                        <h3> 30/8/2018 </h3>
+                        <hr>
+                        <p> a memorable picture with my ex roomates at UiTM Jengka </p>
+                    </div>
+                </div>
+                <div class="single-service">
+                    <img src="C:\Users\Admin\Downloads\Pet.jpeg" alt="">
+                    <div class="overlay"></div>
+                    <div class="service-desc">
+                        <h3> 1/6/2021 </h3>
+                        <hr>
+                        <p> a picture of my pets! </p>
+                    </div>
+                </div>
+<br>
+<br>
+<B> Boomerang</B>
+<embed src="C:\Users\Admin\Desktop\html\Nana Images\Boomerang.mp4"></embed>
+<br> 
+<B> Hiking video</B>
+<br>
+<embed src="C:\Users\Admin\Desktop\html\Nana Images\Hiking.mp4"></embed>
+</body>
+</br>
+
+        </section>
+
+
+    <!--footer-->
+
+        <section id="footer">
+            <div class="title-text">
+                <h1>Let's Know More About Me ;)</h1>
+            </div>
+            <div class="footer-row">
+                <h1>See You Again!</h1>
+            </div>
+        </section>
+
+        <script>
+             manuBtn = document.getElementById("menuBtn")
+             sideNav = document.getElementById("sideNav")
+             menu = document.getElementById("menu")
+
+            sideNav.style.right = "-250px";
+
+            menuBtn.onclick = (){
+                (sideNav.style.right == "-250px"){
+                    sideNav.style.right = "0";
+                    menu.src = "C:\Users\Admin\Desktop\Nana Images\cancel.png";
+                }
+                 {
+                    sideNav.style.right = "-250px";
+                    menu.src = "C:\Users\Admin\Desktop\Nana Images\cancel.png";
+                }
+            }
+
+
+            scroll =  SmoothScroll('a[href*="#"]', {
+	speed: 1000,
+	speedAsDuration: true
+});
+
+
+        </script>
+    </body>
+</html>
